@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(85, 157, 224);
+}
+
+h1{
+    color: rgb(125, 230, 134);/*ponerle color a la letra*/
+    font-size: 35px;/*determinar el tamaño de la letra*/
+    font-family: Algerian;/*para poner el tipo de letra*/
+    font-weight: bold;/*para ponerle negrita*/
+    font-style: italic;/*para centrar el texto*/
+    text-align: center;/*para centrar el texto*/
+    text-decoration: underline;/*para subrayar*/
+
+}
+
+p{
+
+    color: ghostwhite;
+    font-size: 25px;
+    font-family: serif;
+    text-align: justify;
+    line-height: 25px;/*determina el tamaño de las lineas del texto*/
+    letter-spacing: 5px;/*aumenta o disminuye el tamaño entre las   letras*/
+    word-spacing: 10px;    
+
+}
+
+footer{
+
+    color green;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: red (152, 152, 152);
+    text-align: center;
+}
